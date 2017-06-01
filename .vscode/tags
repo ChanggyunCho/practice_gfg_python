@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Element	../x_total_shapes.py	/^class Element:$/;"	kind:class	line:3
+Terrain	../x_total_shapes.py	/^class Terrain:$/;"	kind:class	line:11
+__init__	../x_total_shapes.py	/^    def __init__(self, shape, string_input):$/;"	kind:member	line:12
+__init__	../x_total_shapes.py	/^    def __init__(self, value):$/;"	kind:member	line:4
+__repr__	../x_total_shapes.py	/^    def __repr__(self):$/;"	kind:member	line:8
+bunker_recurse	../x_total_shapes.py	/^        def bunker_recurse(row, col):$/;"	kind:function	line:26
+find_bunker	../x_total_shapes.py	/^    def find_bunker(self):$/;"	kind:member	line:17
+n	../n_queen.py	/^        n = int(input())$/;"	kind:variable	line:30
+n_queen.py	../n_queen.py	1;"	kind:file	line:1
+no_cases	../n_queen.py	/^    no_cases = int(input())$/;"	kind:variable	line:27
+nqueen	../n_queen.py	/^def nqueen(n):$/;"	kind:function	line:20
+nqueen_recur	../n_queen.py	/^def nqueen_recur(n, depth, location, results):$/;"	kind:function	line:3
+num_cases	../x_total_shapes.py	/^    num_cases = int(input())$/;"	kind:variable	line:69
+results	../n_queen.py	/^    results = []$/;"	kind:variable	line:28
+results	../x_total_shapes.py	/^    results = []$/;"	kind:variable	line:70
+should_visit	../x_total_shapes.py	/^            def should_visit(element):$/;"	kind:function	line:30
+string	../n_queen.py	/^            string = ""$/;"	kind:variable	line:38
+x_total_shapes.py	../x_total_shapes.py	1;"	kind:file	line:1
